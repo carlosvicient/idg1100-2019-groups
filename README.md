@@ -60,4 +60,11 @@ In your local repo, open your text editor and edit the file `index.html`
 
 # Creating a Pull Request
 
-Read the following article: [sync your fork with the upstream repository](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork)
+Your forked project is now updated in both your local repository and your remote repository (gitHub). The last step is to create a pull request.
+
+A pull request is in the core of the open source community. It is a feature that makes it easier for developers to collaborate with other developers.
+
+The pull request is sent to the original author of the repository you forked. With the pull request, you send your code and your changes to the original author asking him/she to include your changes and implementation to the original source.
+
+So, the last step consists in sending a pull request. You can read 
+[how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) to learn how to do it.
