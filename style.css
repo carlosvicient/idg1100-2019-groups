@@ -1,0 +1,43 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: linear-gradient(to left, white, deeppink);
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: darkmagenta;
+}
+
+p:first-of-type {
+    text-align: center;
+    color: darkviolet;
+}
+
+h2 {
+    color: darkmagenta; 
+}
+
+span {
+    color: darkviolet;
+}
+
+p:nth-of-type(n+2) {
+    color: white;
+}
+
+span::after {
+    content: "👑"
+}
+
+ul {
+    list-style: none;
+}
+
+li::before {
+    content: "🦄";
+}
+
+li {
+    color: white;
+}
